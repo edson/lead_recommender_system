@@ -5,7 +5,7 @@ Credits
 Development Lead
 ----------------
 
-* Edson W. Chen <chen.neura@gmail.com>
+* Edson W. Chen <edson>
 
 Contributors
 ------------
